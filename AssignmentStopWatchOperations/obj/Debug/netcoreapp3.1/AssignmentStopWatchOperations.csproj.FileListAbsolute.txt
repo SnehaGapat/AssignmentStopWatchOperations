@@ -1,0 +1,13 @@
+C:\Users\Snehal\source\repos\AssignmentStopWatchOperations\AssignmentStopWatchOperations\bin\Debug\netcoreapp3.1\AssignmentStopWatchOperations.exe
+C:\Users\Snehal\source\repos\AssignmentStopWatchOperations\AssignmentStopWatchOperations\bin\Debug\netcoreapp3.1\AssignmentStopWatchOperations.deps.json
+C:\Users\Snehal\source\repos\AssignmentStopWatchOperations\AssignmentStopWatchOperations\bin\Debug\netcoreapp3.1\AssignmentStopWatchOperations.runtimeconfig.json
+C:\Users\Snehal\source\repos\AssignmentStopWatchOperations\AssignmentStopWatchOperations\bin\Debug\netcoreapp3.1\AssignmentStopWatchOperations.runtimeconfig.dev.json
+C:\Users\Snehal\source\repos\AssignmentStopWatchOperations\AssignmentStopWatchOperations\bin\Debug\netcoreapp3.1\AssignmentStopWatchOperations.dll
+C:\Users\Snehal\source\repos\AssignmentStopWatchOperations\AssignmentStopWatchOperations\bin\Debug\netcoreapp3.1\AssignmentStopWatchOperations.pdb
+C:\Users\Snehal\source\repos\AssignmentStopWatchOperations\AssignmentStopWatchOperations\obj\Debug\netcoreapp3.1\AssignmentStopWatchOperations.csprojAssemblyReference.cache
+C:\Users\Snehal\source\repos\AssignmentStopWatchOperations\AssignmentStopWatchOperations\obj\Debug\netcoreapp3.1\AssignmentStopWatchOperations.AssemblyInfoInputs.cache
+C:\Users\Snehal\source\repos\AssignmentStopWatchOperations\AssignmentStopWatchOperations\obj\Debug\netcoreapp3.1\AssignmentStopWatchOperations.AssemblyInfo.cs
+C:\Users\Snehal\source\repos\AssignmentStopWatchOperations\AssignmentStopWatchOperations\obj\Debug\netcoreapp3.1\AssignmentStopWatchOperations.csproj.CoreCompileInputs.cache
+C:\Users\Snehal\source\repos\AssignmentStopWatchOperations\AssignmentStopWatchOperations\obj\Debug\netcoreapp3.1\AssignmentStopWatchOperations.dll
+C:\Users\Snehal\source\repos\AssignmentStopWatchOperations\AssignmentStopWatchOperations\obj\Debug\netcoreapp3.1\AssignmentStopWatchOperations.pdb
+C:\Users\Snehal\source\repos\AssignmentStopWatchOperations\AssignmentStopWatchOperations\obj\Debug\netcoreapp3.1\AssignmentStopWatchOperations.genruntimeconfig.cache
